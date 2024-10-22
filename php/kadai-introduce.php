@@ -6,4 +6,4 @@ $age = 25;
 
 $message = $first_name . $last_name . "です。" . $age . "歳です。";
 
-print_r($message);
+print($message);
